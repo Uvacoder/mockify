@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="header-title">
-      <h1>Mockify <span class="emoji">🌊</span></h1>
+      <h1>Mockify abc <span class="emoji">🌊</span></h1>
       <span>Mockup your Design for Instantly Shareable Images</span>
     </div>
     <div class="header-menu">
