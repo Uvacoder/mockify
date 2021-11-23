@@ -2,7 +2,7 @@
   <section id="content">
     <div class="main">
       <section id="about">
-        <h1>Mockify</h1>
+        <h1>abcMockify</h1>
         <p>Instant Design Mockup for Instantly Shareable Images. Build with <a href="https://v3.vuejs.org/" target="_blank" rel="noopener">Vue 3</a> and
           <a href="https://vitejs.dev/" target="_blank" rel="noopener">ViteJS</a>. Use Mockify for Creating Professional Share Image Instantly Without Complicated Software.</p>
         <p>Mockify build with Latest Web Technology which allow use to access this app even in offline mode (cache-first). And the other cool thing is PWA (Progressive Web App) makes this app installable on Android devices, allow us to use this app to run native-like on an Android.</p>
